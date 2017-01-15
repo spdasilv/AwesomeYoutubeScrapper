@@ -19,7 +19,7 @@ def GetWatchID (song):
     result = urllib.request.urlopen(fullurl)
     resultHtml = result.read()
     result.close()
-    soup = BeautifulSoup(resultHtml,'lxml')
+    soup = BeautifulSoup(resultHtml)
     videos = soup.find_all("a", class_="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink spf-link ")
     watchID = videos[0].get('href')
     return watchID
