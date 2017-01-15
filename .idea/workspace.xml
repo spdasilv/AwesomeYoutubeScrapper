@@ -2,7 +2,96 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71930521-54d4-4783-8134-51d88e635454" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/10cc - Dreadlock Holiday-PbdCvzF4qqw.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/Crypto/Cipher/_AES.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/Crypto/Cipher/_ARC2.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/Crypto/Cipher/_ARC4.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/Crypto/Cipher/_Blowfish.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/Crypto/Cipher/_CAST.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/Crypto/Cipher/_DES.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/Crypto/Cipher/_DES3.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/Crypto/Cipher/_XOR.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/Crypto/Hash/_MD2.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/Crypto/Hash/_MD4.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/Crypto/Hash/_RIPEMD160.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/Crypto/Hash/_SHA224.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/Crypto/Hash/_SHA256.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/Crypto/Hash/_SHA384.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/Crypto/Hash/_SHA512.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/Crypto/Random/OSRNG/winrandom.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/Crypto/Util/_counter.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/Crypto/Util/strxor.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/I'M NOT IN LOVE - 10cc-2rgepWg4rzw.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/VCRUNTIME140.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/YouTubeDownloader.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/_bz2.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/_ctypes.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/_elementtree.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/_hashlib.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/_lzma.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/_socket.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/_ssl.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/_win32sysloader.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/api-ms-win-crt-conio-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/api-ms-win-crt-convert-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/api-ms-win-crt-environment-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/api-ms-win-crt-filesystem-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/api-ms-win-crt-heap-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/api-ms-win-crt-locale-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/api-ms-win-crt-math-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/api-ms-win-crt-process-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/api-ms-win-crt-runtime-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/api-ms-win-crt-stdio-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/api-ms-win-crt-string-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/api-ms-win-crt-time-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/api-ms-win-crt-utility-l1-1-0.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/ctypes/macholib/README.ctypes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/ctypes/macholib/fetch_macholib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/ctypes/macholib/fetch_macholib.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/email/architecture.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/etree.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/includes/c14n.pxd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/includes/config.pxd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/includes/dtdvalid.pxd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/includes/etree_defs.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/includes/etreepublic.pxd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/includes/htmlparser.pxd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/includes/lxml-version.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/includes/relaxng.pxd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/includes/schematron.pxd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/includes/tree.pxd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/includes/uri.pxd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/includes/xinclude.pxd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/includes/xmlerror.pxd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/includes/xmlparser.pxd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/includes/xmlschema.pxd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/includes/xpath.pxd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/includes/xslt.pxd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/isoschematron/resources/rng/iso-schematron.rng" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/isoschematron/resources/xsl/RNG2Schtrn.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/isoschematron/resources/xsl/XSD2Schtrn.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_abstract_expand.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_dsdl_include.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_schematron_message.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_schematron_skeleton_for_xslt1.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_svrl_for_xslt1.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/lxml.etree.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/lxml.etree_api.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/lxml/objectify.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/processed_24_dec_2015_backup.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/pydoc_data/_pydoc.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/pyexpat.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/pyreadline/configuration/pyreadlineconfig.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/python35.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/python35.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/pywintypes35.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/select.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/unicodedata.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/win32api.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/win32evtlog.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/exe.win-amd64-3.5/win32wnet.pyd" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YouTubeDownloader.py" afterPath="$PROJECT_DIR$/YouTubeDownloader.py" />
     </list>
     <ignored path="Awesome Music Scrapper.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,8 +135,8 @@
       <file leaf-file-name="YouTubeDownloader.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/YouTubeDownloader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29330254">
-              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.8159675">
+              <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -167,6 +256,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -187,7 +277,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -365,18 +454,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39895698" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39895698" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -486,6 +575,80 @@
     <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pydub/audio_segment.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="401" column="0" selection-start-line="401" selection-start-column="0" selection-end-line="401" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YouTubeDownloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/youtube_dl/YoutubeDL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="507" column="12" selection-start-line="507" selection-start-column="12" selection-end-line="507" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/bs4/element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="985" column="0" selection-start-line="985" selection-start-column="0" selection-end-line="985" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="698" column="0" selection-start-line="698" selection-start-column="0" selection-end-line="698" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/http/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="982" column="0" selection-start-line="982" selection-start-column="0" selection-end-line="982" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="310" column="0" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pydub/audio_segment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -543,7 +706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -616,7 +778,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -638,7 +799,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -706,17 +866,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../YouTubeDownloader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/YouTubeDownloader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29330254">
-          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.8159675">
+          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
