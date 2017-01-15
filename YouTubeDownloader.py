@@ -26,15 +26,21 @@ def GetWatchID (song):
 
 songs = CreateArrayOfSongs("processed_24_dec_2015_backup.txt")
 options = {
-    'format': 'bestaudio/best', # choice of quality
-    'extractaudio': True,      # only keep the audio
-    'audioformat': "mp3",      # convert to mp3
-    'outtmpl': '%(title)s',        # name the file the ID of the video
-    'noplaylist': True,        # only download single song, not playlist
+    'format': 'bestaudio/best',
+    'postprocessors': [{
+        'key': 'FFmpegExtractAudio',
+        'preferredcodec': 'mp3',
+        'preferredquality': '192',
+    }],
 }
 for song in songs:
-    watchID = GetWatchID(song)
-    with youtube_dl.YoutubeDL(options) as ydl:
-        print('Downloading "'+watchID+'"')
-        ydl.download(['http://www.youtube.com'+watchID])
-        print('Download Complete.')
+    try:
+        watchID = GetWatchID(song)
+        with youtube_dl.YoutubeDL(options) as ydl:
+            print('Downloading "'+watchID+'"')
+            ydl.download(['http://www.youtube.com'+watchID])
+            print('Download Complete.')
+    except Exception as e:
+        print("Error {0}".format(str(e)))
+        print('Unable to obtain the song "'+song+'"')
+        continue
