@@ -19,7 +19,7 @@ def GetWatchID (song):
     result = urllib.request.urlopen(fullurl)
     resultHtml = result.read()
     result.close()
-    soup = BeautifulSoup(resultHtml)
+    soup = BeautifulSoup(resultHtml,'lxml')
     videos = soup.find_all("a", class_="yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 yt-uix-sessionlink spf-link ")
     watchID = videos[0].get('href')
     return watchID
@@ -29,10 +29,12 @@ options = {
     'format': 'bestaudio/best', # choice of quality
     'extractaudio': True,      # only keep the audio
     'audioformat': "mp3",      # convert to mp3
-    'outtmpl': '%(id)s',        # name the file the ID of the video
+    'outtmpl': '%(title)s',        # name the file the ID of the video
     'noplaylist': True,        # only download single song, not playlist
 }
 for song in songs:
     watchID = GetWatchID(song)
     with youtube_dl.YoutubeDL(options) as ydl:
+        print('Downloading "'+watchID+'"')
         ydl.download(['http://www.youtube.com'+watchID])
+        print('Download Complete.')
